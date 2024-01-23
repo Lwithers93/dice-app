@@ -56,5 +56,3 @@ function loadImage(number) {
     console.log("error");
   }
 }
-
-// document.getElementById("numberOfDiceChoice").addEventListener(onchang)
