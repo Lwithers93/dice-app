@@ -6,7 +6,7 @@ const diceFive = '<i class="fa-solid fa-dice-five"></i>';
 const diceSix = '<i class="fa-solid fa-dice-six"></i>';
 const preRoll = '<i class="fa-solid fa-dice fa-shake"></i>';
 
-var numberOfDice = 2;
+var numberOfDice = 1;
 var total = 0;
 
 document.querySelector("#diceDisplay").innerHTML = preRoll;
