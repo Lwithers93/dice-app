@@ -1,21 +1,17 @@
 {
-  "name": "Dice App by Wov",
-  "short_name": "Dice App",
-  "start_url": "index.html",
-  "scope": "./",
+  "background_color": "black",
+  "description": "This is your personal Dice App.",
+  "orientation": "portrait-primary",
+  "display": "standalone",
   "icons": [
     {
       "src": "w-logo.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "w-logo.png",
-      "sizes": "512x512",
+      "sizes": "179x179",
       "type": "image/png"
     }
   ],
-  "theme_color": "#ffd31d",
-  "background_color": "#333",
-  "display": "standalone"
+  "name": "Dice App",
+  "short_name": "Dice App",
+  "start_url": "index.html",
+  "permissions": ["storage"]
 }
