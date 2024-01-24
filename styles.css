@@ -10,6 +10,10 @@ body {
   background-color: #009900;
 }
 
+.btn {
+  color: black;
+}
+
 div {
   display: flex;
   justify-content: center;
