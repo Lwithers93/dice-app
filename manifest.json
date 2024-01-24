@@ -5,7 +5,7 @@
   "display": "standalone",
   "icons": [
     {
-      "src": "w-logo.png",
+      "src": "W-logo.png",
       "sizes": "179x179",
       "type": "image/png"
     }
